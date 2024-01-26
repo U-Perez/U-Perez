@@ -23,14 +23,6 @@
 
 <h2 align="center">Stats</h2>
 
-<div align="left">
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=U-Perez&show_icons=true)
 
-</div>
-<div align="right">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Perez&layout=compact)
-
-</div>
-
