@@ -1,6 +1,10 @@
 <h2 align="center">Hi, There</h2>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&duration=4000&pause=1000&color=DCA62B&center=true&vCenter=true&random=false&width=435&lines=I'm+Urias+;Software+Engineer+)](https://git.io/typing-svg)
+
+</div>
 
 <h2 align="center">Frameworks & Tools</h2> 
 
@@ -23,6 +27,8 @@
 
 <h2 align="center">Stats</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=U-Perez&show_icons=true)
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-Perez&layout=compact" style="widht: 50%; height: 165px"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Perez&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=U-Perez&show_icons=true" style="width: 50%; height: 165px"/>
+</div>
