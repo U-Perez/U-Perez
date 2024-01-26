@@ -27,7 +27,7 @@
 
 <h2 align="center">Stats</h2>
 
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-Perez&layout=compact" style="display: block; margin: auto; max-width: 100%; width: 465px"/>
 <br>
